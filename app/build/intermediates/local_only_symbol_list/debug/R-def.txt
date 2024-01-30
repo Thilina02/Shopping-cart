@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id DeliveryNb
+id DeliveryTxt
+id ItemTotalNb
+id ItemTotalTxt
+id TaxNb
+id TaxTxt
+id TotalNb
+id TotalTxt
+id textView2
+id textView9
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ShoppingCart
+style Theme.ShoppingCart
+xml backup_rules
+xml data_extraction_rules
